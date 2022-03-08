@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(2, 0, 121);
+    color: rgb(9, 255, 0);
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 22px;
+}
+  .reverse {
+     background-color: rgb(253, 0, 0) !important;
+     color: white;
+}
+p {
+    padding: 100px;
+}
